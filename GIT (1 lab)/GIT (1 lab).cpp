@@ -2,10 +2,11 @@
 ﻿// GIT (1 lab).cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Hello World!\n";
 =======
 ﻿
@@ -15,4 +16,9 @@ int main()
 {
    
 >>>>>>> Stashed changes
+=======
+    int num;
+    scanf("%d", &num);
+    printf("%d", num);
+>>>>>>> 0099a1f3e585dcfff7c0e20d47356fb04dacfb57
 }
