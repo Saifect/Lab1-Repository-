@@ -5,7 +5,9 @@
 
 int main()
 {
-    printf("Hallo world!");
+    int num;
+    scanf("%d", &num);
+    printf("%d", num);
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
