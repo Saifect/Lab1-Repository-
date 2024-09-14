@@ -1,11 +1,11 @@
 ﻿// GIT (1 lab).cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    printf("Hallo world!");
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
